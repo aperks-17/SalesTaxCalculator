@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TaxCalculator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sales\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TaxCalculator()
+comment2.params=
+comment2.target=void\ Run()
+comment3.params=inputAmount\ taxPercent
+comment3.target=double\ CalculateSalesTax(double,\ double)
+comment4.params=inputAmount\ salesTax
+comment4.target=double\ CalculateTotalAmount(double,\ double)
+numComments=5
